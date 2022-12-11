@@ -1,0 +1,40 @@
+html{
+	font-family: "georgia"
+}
+
+.title {
+	font-weight: bold;
+	font-size: 20px;
+}
+img{
+	height:20rem;
+	margin-left:5%;
+	align-items: left;
+	float: left;
+}
+
+.section{
+	height:400px;
+	display: flex;
+	justify-content: space-between;
+	padding:10px;	
+}
+h3{
+	font-size:2rem;
+}
+p{
+	font-size:1rem;
+}
+.text {
+	display: inline-block;
+	height:400px;
+	font-size: 15px;
+	padding-left:5%;
+	text-align: left;
+}
+.rectangle {
+	display: inline-block;
+	width: 30%;
+	height: 100px;
+	align-items: left;
+}
